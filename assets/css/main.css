@@ -378,7 +378,7 @@ h3, header nav a, footer .lockup .content-wrap a {
 
 header {
   height: 450px;
-  background: url(../img/hero-com.jpg) center center;
+  background: url(https://cloud.githubusercontent.com/assets/5852458/8388741/7f39925c-1c3c-11e5-994f-5a2da95dcacb.jpg) center center;
   background-size: cover; }
   header .logo {
     height: 75px;
@@ -682,7 +682,7 @@ header {
       transition: 0.35s ease-out; }
 
 footer {
-  background: url(../img/hero-com.jpg) center center;
+  background: url(https://cloud.githubusercontent.com/assets/5852458/8388741/7f39925c-1c3c-11e5-994f-5a2da95dcacb.jpg) center center;
   background-size: cover; }
   footer:after {
     content: "";
