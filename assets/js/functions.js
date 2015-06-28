@@ -8,6 +8,8 @@ $( document ).ready(function() {
     clientSwitch();
   });
 
+  //$('')
+
   //smoothScroll
   function smoothScroll(duration){
     $('a[href^="#"]').on('click', function(event){

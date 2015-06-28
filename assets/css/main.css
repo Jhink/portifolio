@@ -443,7 +443,11 @@ header {
     header h1 {
       padding-top: 0px; }
     header .kicker span {
-      font-size: 11px; } }
+      font-size: 11px; }
+    .section-formulario form{
+      max-width: 90%;
+    }
+      }
 .quadro-perfil {
   max-width: 780px;
   display: -webkit-box;
@@ -645,6 +649,15 @@ header {
 @media screen and (max-width: 580px) {
   .biglink {
     font-size: 24px; } }
+
+@media screen and (max-width: 380px){
+  header .kicker span{
+    font-size: 9px;
+  }
+  .biglink{
+    font-size: 18px;
+  }
+}
 .section-formulario form {
   max-width: 550px;
   margin: 0 auto 50px; }
